@@ -1,0 +1,9 @@
+Cifrado César
+
+El cifrado César es un método de cifrado simple que consiste 
+en desplazar cada letra del mensaje original un número fijo 
+de posiciones en el alfabeto. Por ejemplo, con un desplazamiento 
+de 3, la letra "A" se convierte en "D", la "B" en "E", y así 
+sucesivamente. Para descifrar, se hace el mismo proceso en 
+sentido inverso. Es uno de los cifrados más antiguos y básicos, 
+pero también muy fácil de romper.
